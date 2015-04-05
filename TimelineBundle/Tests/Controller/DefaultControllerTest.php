@@ -1,6 +1,6 @@
 <?php
 
-namespace Urban\BlogBundle\Tests\Controller;
+namespace Urban\TimelineBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Urban\BlogBundle\Features\Context;
+namespace Urban\TimelineBundle\Features\Context;
 
 use Behat\Behat\Context\Context;
 use Behat\Gherkin\Node\PyStringNode;
